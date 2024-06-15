@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uresequag.github.io/sitemap
+Sitemap: https://uresequag.github.io/app/sitemap
+Sitemap: https://uresequag.github.io/assets/sitemap
+Sitemap: https://uresequag.github.io/css/sitemap
+Sitemap: https://uresequag.github.io/includes/sitemap
+Sitemap: https://uresequag.github.io/item/sitemap
+Sitemap: https://uresequag.github.io/src/sitemap
